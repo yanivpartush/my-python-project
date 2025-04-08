@@ -142,6 +142,8 @@ persons_map_by_idx = {}
 personIndex = 0
 exitFlag = False
 
+print("Welcome to my first python program!")
+
 while True:
     try:
         userSelection = printMenuAndGetUserSelection()
